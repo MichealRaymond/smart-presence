@@ -38,7 +38,7 @@
 //   }
 // };
 
-// //  VERIFY FACE (Clock In/Out)
+// //  VERIFY FACE 
 // export const verifyFace = async (req, res) => {
 //   try {
 //     const { userId, type } = req.body; // type: 'in' or 'out'
